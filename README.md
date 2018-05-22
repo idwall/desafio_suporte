@@ -1,5 +1,5 @@
 # Desafio Suporte Técnico
-Temos dois desafios para avaliarmos seus conhecimentos. Siga as instruições abaixo para resolvê-los.
+Temos dois desafios para avaliarmos seus conhecimentos. Siga as instruções abaixo para resolvê-los.
 
 ## Desafio web
 Você está criando uma página de contato para os clientes onde o usuário deverá preencher os dados do formulário e em seguida enviá-los. 
@@ -24,7 +24,7 @@ Um petshop possui um sistema com banco de dados SQL que armazena informações e
 Crie uma query para cada questão abaixo:
 - Edivaldo, dono do petshop, precisa saber qual a quantidade de cachorros de pelo da cor marrom. Como ele pode realizar essa consulta no banco?
 - Liste para o Edivaldo os nomes dos clientes que têm sobrenome "Skywalker" e os nomes de seus respectivos cachorros.
-- Edivaldo está fazendo um levantamento e está tentando gerar os seguintes dados: data, valor total do serviço e nome dos clientes que trouxeram seus cachorros entre os dias 15/01/2018 e 25/02/2018. Exiba para ele as informações.
+- Edivaldo está fazendo um levantamento e está tentando gerar os seguintes dados: data, valor total do serviço e nome dos clientes que trouxeram seus cachorros no período de 15/01/2018 a 25/02/2018. Exiba para ele as informações.
 
 #### Instruções:
 - Caso ainda não tenha clonado o repositório ou baixado como .zip, clone/baixe.
@@ -37,4 +37,4 @@ OBS.: Caso prefira, crie um database em sua máquina e rode localmente utilizand
 #### Como entregar o desafio:
 Em um arquivo resolucao_desafio_sql.txt salve as queries utilizadas nas 3 questões e envie para o recrutador/pessoa que lhe enviou o teste.
 
-Boa sorte!
+#### Boa sorte!
