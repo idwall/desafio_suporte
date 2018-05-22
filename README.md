@@ -30,6 +30,7 @@ Crie uma query para cada questão abaixo:
 - Caso ainda não tenha clonado o repositório ou baixado como .zip, clone/baixe.
 - Acesse a pasta "desafio_sql" e copie o conteúdo do arquivo queries.sql
 - Acesse [este site](http://sqlfiddle.com/#!17/8135d/19) e cole o conteúdo copiado anteriormente no campo de texto do lado esquerdo e clique em "Build Schema".
+- Certifique-se de que a opção "PostgreSQL 9.6" na parte superior esquerda da página é a selecionada.
 - Utilize o campo do lado direito para realizar as consultas.
 OBS.: Caso prefira, crie um database em sua máquina e rode localmente utilizando um client de sua preferência.
 
