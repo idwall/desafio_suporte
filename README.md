@@ -33,7 +33,7 @@ Crie uma query para cada questão abaixo:
 - Utilize o campo do lado direito para realizar as consultas.
 OBS.: Caso prefira, crie um database em sua máquina e rode localmente utilizando um client de sua preferência.
 
-### Como entregar o desafio:
+#### Como entregar o desafio:
 Em um arquivo resolucao_desafio_sql.txt salve as queries utilizadas nas 3 questões e envie para o recrutador/pessoa que lhe enviou o teste.
 
 Boa sorte!
