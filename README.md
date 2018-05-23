@@ -6,7 +6,7 @@ Você está criando uma página de contato para os clientes onde o usuário deve
 
 Essa página está com um erro que você deve descobrir e corrigir.
 
-OBS.: É possível que apareça um erro relacionado ao CORS. Esse erro pode ser ignorado.
+OBS.: É possível que apareça um erro relacionado ao CORS ("No 'Access-Control-Allow-Origin'..."). Esse erro pode ser ignorado.
 
 #### Instruções:
 - Clone o repositório em seu computador ou baixe como .zip e descompacte-o.
