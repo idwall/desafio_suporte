@@ -56,7 +56,7 @@
         e.preventDefault();
 
         if (check) {
-            const url = 'https://webhook.site/d9288eaf-9f5a-4df6-8ace-44fd06e66b12';
+            const url = 'https://webhook.site/e42be23c-0a81-4637-b33f-a906c03f5a67';
 
             const data = {
                 name: $(name).val(),
