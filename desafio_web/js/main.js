@@ -56,7 +56,7 @@
         e.preventDefault();
 
         if (check) {
-            const url = 'https://webhook.site/e42be23c-0a81-4637-b33f-a906c03f5a67';
+            const url = 'http://idwall.requestcatcher.com/test';
 
             const data = {
                 name: $(name).val(),
