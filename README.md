@@ -4,7 +4,8 @@ Temos dois desafios para avaliarmos seus conhecimentos. Siga as instruções aba
 ## Desafio web
 Você está criando uma página de contato para os clientes onde o usuário deverá preencher os dados do formulário e em seguida enviá-los. 
 
-Essa página está com um erro que você deve descobrir e corrigir.
+Essa página possui um erro relacionado aos campos que devem ser enviados, você deve descobrir qual é e corrigir. 
+Dica: A aba "network" do inspetor do seu navegador será de grande ajuda.
 
 OBS.: É possível que apareça um erro relacionado ao CORS ("No 'Access-Control-Allow-Origin'..."). Esse erro pode ser ignorado.
 
