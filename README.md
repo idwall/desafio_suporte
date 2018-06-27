@@ -36,7 +36,8 @@ Um petshop possui um sistema com banco de dados SQL que armazena informações e
 Crie uma query para cada questão abaixo:
 - Edivaldo, dono do petshop, precisa saber qual a quantidade de cachorros de pelo da cor marrom. Como ele pode realizar essa consulta no banco?
 - Liste para o Edivaldo os nomes dos clientes que têm sobrenome "Skywalker" e os nomes de seus respectivos cachorros.
-- Edivaldo está fazendo um levantamento e está tentando gerar os seguintes dados: data, valor total do serviço e nome dos clientes que trouxeram seus cachorros no período de 15/01/2018 a 25/02/2018. Exiba para ele as informações.
+- Edivaldo está fazendo um levantamento e está tentando gerar os seguintes dados: data, valor total dos serviços prestados e nome dos clientes que trouxeram seus cachorros no período de 15/01/2018 a 25/02/2018. Exiba para ele as informações.
+OBS.: Agrupe mostrando o valor total dos serviços para cada cliente.
 
 #### Como entregar o desafio:
 Em um arquivo resolucao_desafio_sql.txt salve as queries utilizadas nas 3 questões e envie para o recrutador/pessoa que lhe enviou o teste.
